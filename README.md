@@ -5,7 +5,7 @@ Este repositório contém as soluções dos 10 exercícios propostos na Unidade 
 O objetivo desta unidade é aprofundar os conceitos de Programação Orientada a Objetos, focando em classes, herança, polimorfismo e interfaces, aplicados em cenários do mundo real.
 
 📁 Estrutura dos Exercícios  
-Cada exercício está em sua própria pasta (Atividade 01, Atividade 02, etc.) e contém:  
+Cada exercício está em sua própria pasta (Exercicio 01, Exercicio 02, etc.) e contém:  
 - `Classe.java`: implementação da classe solicitada  
 - `README.md`: descrição da questão e o que foi feito  
 
